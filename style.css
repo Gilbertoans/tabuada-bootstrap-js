@@ -1,0 +1,35 @@
+body{
+  background-color: #ccc;
+}
+.gerador {
+  margin-top: 40px;
+  border: solid 10px #fff;
+  padding: 20px;
+  background-color: #ccc;
+  border-radius: 10px;
+  box-shadow: 1px 1px 5px #000;
+  text-align: center;
+}
+
+input{
+  height: 40px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.resultado{
+  height: 300px;
+  width: 200px;
+  background-color: #fff;
+  margin: 0 auto;
+  margin-top: 20px;
+  padding: 20px;
+  font-weight: bold;
+}
+
+.envolve{
+  text-align: center;
+  align-items: center;
+  margin: 0 auto;
+}
+
